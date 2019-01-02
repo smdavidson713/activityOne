@@ -1,0 +1,32 @@
+body {
+	background-color: lightblue;
+}
+h1 {
+	color:red;
+	text-align: center;
+	font-family:sans-serif;
+
+}
+p {
+	border: 1px solid red;
+	color:green;
+	padding:20px;
+}
+#diff-para{
+	border: none;
+	font-family:fantasy;
+	color:darkorange;
+	margin-left:20px;
+
+}
+ul {
+	border:5px double black;
+	color:purple;
+	padding-top:20px;
+}
+#diff-item {
+	font-style:italic;
+	margin-left:50px;
+	color:red;
+}
+}
